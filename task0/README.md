@@ -6,7 +6,8 @@
  ![image](https://user-images.githubusercontent.com/86960402/124476008-0a7c5a80-ddab-11eb-97d3-90bd1da5be5b.png)
  
 SSH Ключ:
-![image](https://user-images.githubusercontent.com/86960402/124476154-2da70a00-ddab-11eb-90a3-89a493052f3e.png)
+![image](https://user-images.githubusercontent.com/86960402/124476652-c178d600-ddab-11eb-8f05-ce569ccd063d.png)
+
 
 Код написаний за допомогою Visual Studio Code: 
 ![image](https://user-images.githubusercontent.com/86960402/124476293-4dd6c900-ddab-11eb-80db-6706e305d61a.png)
